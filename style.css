@@ -1,0 +1,15 @@
+body {
+	justify-content: center;
+	align-items: center;
+	background-color: thistle;
+}
+
+.column {
+	display: flex;
+	flex-direction: column;
+}
+
+canvas {
+	background-color: white;
+	margin-top: 0.5rem;
+}
